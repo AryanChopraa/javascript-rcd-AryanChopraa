@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mwP1qNXw)
 # JavaScript Assignment 1: Rows, Columns, Diagonals.
 
 Write a function that returns indexes for a square grid’s rows, columns, and diagonals. The grid is a single-dimension array, with indexes starting at 1. The function returns the collection of indexes in a 2D array. 
